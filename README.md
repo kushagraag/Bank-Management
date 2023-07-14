@@ -1,4 +1,4 @@
-# SS_Mini_Project
+# Bank Management system
 Mini project for SS
 
 to start -> create a records folder 
